@@ -1,4 +1,8 @@
+# replace with virtualenv name of your choice
 myenv/
+# model training results and final. large files so they should not be committed
+results/
+kuberdiction-t5/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
