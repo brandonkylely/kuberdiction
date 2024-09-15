@@ -8,7 +8,7 @@
 ## Deployment
 This tool is currently live:
 
-[Link](ec2-13-52-163-4.us-west-1.compute.amazonaws.com)
+http://ec2-13-52-163-4.us-west-1.compute.amazonaws.com
 
 ** This tool is still experimental. Please verify any commands for accuracy before using.
 
